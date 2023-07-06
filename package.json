@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Olbili.github.io/Event-Booster-project",
+  "homepage": "https://Elenael1.github.io/team_project ",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Event-Booster-project/"
+    "build": "parcel build src/*.html --public-url /team_project /"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olbili/Event-Booster-project"
+    "url": "git+https://github.com/Elenael1/team_project"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
